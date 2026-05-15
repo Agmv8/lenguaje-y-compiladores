@@ -17,3 +17,8 @@ Este repositorio contiene los entregables del **Tema 1** de la asignatura *Lengu
 
 Investigamos la **comparativa entre Autómatas Finitos Deterministas (AFD) y Autómatas Finitos No Deterministas (AFN)** en el contexto del análisis léxico de lenguajes modernos, incluyendo su equivalencia, transformación y aplicaciones prácticas en herramientas como Flex, RE2 y ANTLR.
 
+## 🔗 Link de YouTube
+
+[▶️ Ver en YouTube](https://www.youtube.com/watch?v=Dwk97XU2Dm4)
+
+
