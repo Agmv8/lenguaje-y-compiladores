@@ -1,4 +1,4 @@
-# 🌟 Sintaxis Digital
+# GRUPO: Sintaxis Digital
 
 > *“Transformando lenguaje en lógica computacional.”*
 
