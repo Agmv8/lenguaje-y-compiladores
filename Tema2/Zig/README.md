@@ -83,7 +83,7 @@ Resultado:
   Numero con mas pasos: 837799
   Cantidad de pasos:    524
 
-Tiempo de ejecucion:   85.231 ms
+Tiempo de ejecucion:   411 ms
 ```
 
 ---
@@ -122,7 +122,7 @@ Todos los lenguajes resuelven el mismo problema (Collatz para n < 1,000,000):
 
 | Lenguaje | Paradigma | Mecanismo | Tiempo (ms) | Memoria (MB) |
 |---|---|---|---|---|
-| **Zig** | Imperativo / Estructurado | Compilación nativa LLVM | ~85 | ~2.1 |
+| **Zig** | Imperativo / Estructurado | Compilación nativa LLVM | ~411 | ~2.1 |
 | **Rust** | Multiparadigma | Compilación nativa LLVM | ~90 | ~2.3 |
 | **JavaScript** | Multiparadigma | JIT V8 Engine | ~1,550 | ~28.0 |
 | **Python** | Multiparadigma | Interpretado CPython | ~12,230 | ~18.5 |
