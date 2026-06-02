@@ -26,16 +26,16 @@ Este script ha sido diseñado utilizando exclusivamente las **APIs nativas de Py
    ```
 
 2. Verifique que Python esté instalado correctamente:
-   ```bash
+```bash
    python --version
-   ```
+```
 
 3. (Opcional) Cree un entorno virtual para aislar la prueba:
-   ```bash
+```bash
    python -m venv venv
    source venv/bin/activate   # Linux/macOS
    venv\Scripts\activate      # Windows
-   ```
+```
 
 4. Ejecute el benchmark:
    ```bash
