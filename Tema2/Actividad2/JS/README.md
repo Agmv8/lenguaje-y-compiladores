@@ -14,6 +14,6 @@ Este script ha sido diseñado utilizando exclusivamente las **APIs nativas de No
 
 1. Clone el repositorio o navegue hasta el directorio de JavaScript:
 ```bash
-   cd ./lenguaje-y-compiladores/Tema2/JS
+   cd ./lenguaje-y-compiladores/Tema2/Actividad2/JS
    node benchmark.js
 ```

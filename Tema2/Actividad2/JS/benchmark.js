@@ -50,5 +50,5 @@ function runBenchmark(limit) {
 }
 
 // Se utiliza un N suficientemente grande (n > 50) para generar carga de procesamiento visible
-const N = 5000000;
+const N = 1000000;
 runBenchmark(N);
