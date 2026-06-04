@@ -28,11 +28,10 @@ El contenido de este tema se organiza de la siguiente manera:
 --------------------------------------------------
 ## RETO DE FRASES:
 
-1- Aunque existen diferentes paradigmas siempre nos enamoramos de uno, pero esto no indica que no debamos dominar los demás y aplicarlo según las circunstancias.
-2- Rust representa por su seguridad el nuevo estandar para la construccion de kernel Linux.
-3- La tonkenización en lenguajes es formales diferente a la realizada para los LLM en procesamiento de lenguaje Natural.
-4- El benchmarking es una herramienta comparativa interesante para ingeniero de software alto nivel.
-5- Sería ideal hacer una gráfica del benchmarking.
-6- Un ejercicio creativo para medir su nivel de abstracción en el diseño de un entorno físico con su respectiva comunicación o interfase hombre maquina (lenguaje), su imaginación es el limite!
+1- Aunque existen diferentes paradigmas siempre nos enamoramos de uno, pero esto no indica que no debamos dominar los demás y aplicarlo según las circunstancias.  
+2- Rust representa por su seguridad el nuevo estandar para la construccion de kernel Linux.  
+3- La tonkenización en lenguajes es formales diferente a la realizada para los LLM en procesamiento de lenguaje Natural.  
+4- El benchmarking es una herramienta comparativa interesante para ingeniero de software alto nivel.  
+5- Sería ideal hacer una gráfica del benchmarking.  
+6- Un ejercicio creativo para medir su nivel de abstracción en el diseño de un entorno físico con su respectiva comunicación o interfase hombre maquina (lenguaje), su imaginación es el limite!  
 7- Bajo las directrices de las Normas APA
-
