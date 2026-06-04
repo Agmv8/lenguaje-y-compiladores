@@ -37,5 +37,5 @@ def run_benchmark(limit: int):
     print("Consumo de Memoria: Gestionado dinámicamente por asignación de objetos (Pila/Heap unificados)")
 
 if __name__ == "__main__":
-    N = 5000000
+    N = 1000000
     run_benchmark(N)
