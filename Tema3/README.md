@@ -15,6 +15,12 @@ Este directorio contiene todas las actividades y entregas correspondientes al **
 
 ---
 
+## 📄 Documento Base Teórico
+* 📘 **Informe Principal**: [`Tema 3 (Lenguajes y Gramáticas Formales).pdf`](./Tema%203%20%28Lenguajes%20y%20Gram%C3%A1ticas%20Formales%29.pdf)
+  * Documento académico que contiene el desarrollo formal del marco teórico, análisis morfológicos, especificación de la jerarquía de Chomsky, patologías de gramáticas e implementaciones de diseño del proyecto.
+
+---
+
 ## 🚀 Estructura de Entregables
 El contenido de este tema se organiza de la siguiente manera:
 
