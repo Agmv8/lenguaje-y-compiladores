@@ -73,4 +73,4 @@ Prueba estas cadenas para empezar a experimentar:
 
 ## 🔗 Enlace al Video Explicativo
 
-• Enlace de Google Drive / YouTube al Video Explicativo: [AGREGAR_LINK_AQUÍ]
+• Enlace de Google Drive: https://drive.google.com/file/d/1ANwVhKIA3o6e5Lapx3AJJdQ9wK4yiynv/view?usp=sharing
