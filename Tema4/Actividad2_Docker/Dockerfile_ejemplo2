@@ -1,0 +1,15 @@
+# Ejemplo 2: Dockerfile con Errores Lexicos
+FROM python:3.9-slim
+
+# Directorio de trabajo
+WORKDIR /app
+
+# Intentamos usar un caracter no permitido en nuestro lexer (por ejemplo, un caracter unicode o simbolo especial no valido)
+# @ no esta dentro de ningun patron valido fuera de comentarios, por lo tanto causara un error de token no reconocido
+COPY . @dir
+
+# Otra instruccion valida para continuar despues del error (si se recuperara, aunque levantara RuntimeError)
+RUN pip install -r requirements.txt
+
+# Simbolo de error adicional
+%EXPOSE 8080

@@ -1,0 +1,14 @@
+# Ejemplo 3: Dockerfile con Comentarios y Espacios
+#
+# Este archivo contiene principalmente comentarios y
+# lineas en blanco para validar que el analizador lexico
+# ignora estas partes correctamente y solo extrae la estructura util.
+
+# Imagen base
+FROM debian:stable-slim
+
+      # Espacios y tabulaciones antes de la directiva
+      ENV   APP_NAME="Docker Test"   VERSION=1.0
+
+# Fin de la configuracion
+# No hay mas comandos aqui.
