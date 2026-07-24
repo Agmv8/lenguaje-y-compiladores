@@ -1,0 +1,7 @@
+networks:
+  frontend:
+    driver bridge  # Error sintáctico: Falta el ':'
+    attachable: true
+
+  backend:
+    driver: overlay  # Esta red debe analizarse correctamente gracias al Modo Pánico

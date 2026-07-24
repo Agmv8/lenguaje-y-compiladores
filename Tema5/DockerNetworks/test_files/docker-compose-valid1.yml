@@ -1,0 +1,8 @@
+networks:
+  frontend:
+    driver: bridge
+    attachable: true
+
+  backend:
+    driver: overlay
+    external: true

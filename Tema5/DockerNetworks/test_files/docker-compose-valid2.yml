@@ -1,0 +1,16 @@
+networks:
+  public_net:
+    driver: bridge
+    enable_ipv6: true
+    ipam:
+      driver: default
+      config:
+        - subnet: 172.28.0.0/16
+          gateway: 172.28.0.1
+        - subnet: "2001:db8:feed::/64"
+
+  private_net:
+    driver: overlay
+    ipam:
+      config:
+        - subnet: 10.0.10.0/24

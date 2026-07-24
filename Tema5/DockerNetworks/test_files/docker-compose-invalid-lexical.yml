@@ -1,0 +1,4 @@
+networks:
+  frontend:
+    driver: bridge
+    attachable: @true
