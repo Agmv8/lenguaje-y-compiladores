@@ -1,5 +1,4 @@
 
-
 class ASTNode:
     """Clase base para todos los nodos del AST en UnegScript"""
     pass
