@@ -1,4 +1,4 @@
-# src/ast_nodes.py
+
 
 class ASTNode:
     """Clase base para todos los nodos del AST en UnegScript"""
